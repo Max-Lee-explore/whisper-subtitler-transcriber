@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Cache and models (runtime data)
+cache/
+models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradio session files
+*.gradio 
