@@ -367,8 +367,8 @@ button[role="button"][aria-expanded] {
 }
 /* Download Output File area*/
 #download-file-box .gr-file {
-    min-height: 20px !important;
-    height: 20px !important;
+    min-height: 40px !important;
+    height: 40px !important;
     padding: 0.25em 0.5em !important;
 }
 /* Single white line above footer */
