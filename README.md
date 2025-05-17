@@ -2,7 +2,7 @@
 
 Generate subtitles or transcriptions from your media files or video URLs using OpenAI's Whisper model. Supports various video platforms including YouTube, Vimeo, Dailymotion, and more.
 
-![Whisper logo or illustration](images/whisper.png)
+<img src="images/whisper.png" alt="Whisper logo or illustration" style="width:33%; min-width:120px; max-width:240px;">
 
 ## Features
 - Modern Gradio web interface with two-column layout
